@@ -1,0 +1,4 @@
+server:
+    port : 4444
+    serblet : 
+        context-path : /te
